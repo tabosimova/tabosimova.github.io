@@ -1,0 +1,93 @@
+<b>Tetiana Abrosimova<br>
+abrosimovatana149@gmail.com<br>
+Vienna, Austria<br>
++43 690 106 616 03</p>
+
+<b>QA Engineer</b>
+
+<b>Summary<br>
+Process support manager, Contact Center Bank. I have experience in beta testing of banking Internet banking. I understand the requirements for QA processes, methodologies, types / approaches to testing, etc. Creation of test documentation (test cases, checklists, test plans). I have good communication and organizational skills, very capable, responsible, and flexible person.</p>
+
+<p>Technical skills<br>
+Operating system<br>
+• Microsoft Windows XP/7/8/10<br>
+• MacOS </p>
+
+<p>Tools and Technologies <br>
+• HTML/CSS<br>
+• Technical Documentation<br>
+• Selenium IDE<br>
+• Rest API<br>
+• Postman<br>
+• CI<br>
+• CML<br>
+• JSON<br>
+• MySQL<br>
+• Microsoft SQL Server Management Studio<br>
+• Git<br>
+• Source Tree<br>
+• KDiff3<br>
+• Jenkins<br>
+• Fiddler Classic<br>
+• Fiddler everywhere<br>
+• Jira<br>
+• ADO</p>
+
+<p>Other<br>
+• Agile <br>
+• Scrum<br>
+• Kanban</p>
+
+<br>
+<p>Experience<br>
+Company: Raiffaissen Bank, Ukraine<br>
+Duration: 15 years<br>
+2021 - Process support manager<br>
+• Taking part in building new processes and optimizing existing Bank processes<br>
+• Description of new processes for CC employees<br>
+• Knowledge Base Administration</p>
+
+<p>2017 - 2021 Customer service manager<br>
+• Interviews with new employees<br>
+• Working with a team<br>
+• Analysis of employees' work and providing feedback<br>
+• Employee motivation</p>
+
+<p>2014 - 2017 Training coach<br>
+• Development, training for new employees<br>
+• Development, conducting of trainings on banking products for the Bank's employees<br>
+• Development of a plan for adaptation and management of employees on a trial period</p>
+
+<p>2013-2014<br>
+Internet Banking customer service manager<br>
+• Planning, organization, and control of the Bank's customer service process<br>
+• Participation in the construction, implementation, and improvement of the Internet Banking system<br>
+• Monitoring and analyzing the work of employees and providing feedback<br>
+• Reporting</p>
+
+<p>Educations<br>
+2000 – 2005 Master chemical technology engineer. Kyiv National University of Technology and Design<br>
+2011-2013 Economist. Kherson State Agrarian University<br>
+2023 QA testing courses Computer Academe STEP</p>
+
+<p>Languages<br>
+• English - Pre-intermediate<br>
+• German - Pre-intermediate</p>
+
+<p>Сertificates<br>
+• HR (personnel management)<br>
+• Effective telephone sales<br>
+• LEAN methodology<br>
+• Time management<br>
+• Coach<br>
+• Team management in the context of constant change<br>
+• Coaching<br>
+• PowerPoint<br>
+• Excel</p><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
